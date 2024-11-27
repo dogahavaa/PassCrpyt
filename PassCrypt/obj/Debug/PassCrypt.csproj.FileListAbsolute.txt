@@ -1,0 +1,12 @@
+C:\Users\doga\Desktop\C#\PassCrypt\PassCrypt\bin\Debug\PassCrypt.exe.config
+C:\Users\doga\Desktop\C#\PassCrypt\PassCrypt\bin\Debug\PassCrypt.exe
+C:\Users\doga\Desktop\C#\PassCrypt\PassCrypt\bin\Debug\PassCrypt.pdb
+C:\Users\doga\Desktop\C#\PassCrypt\PassCrypt\obj\Debug\PassCrypt.csproj.AssemblyReference.cache
+C:\Users\doga\Desktop\C#\PassCrypt\PassCrypt\obj\Debug\PassCrypt.csproj.SuggestedBindingRedirects.cache
+C:\Users\doga\Desktop\C#\PassCrypt\PassCrypt\obj\Debug\PassCrypt.Form1.resources
+C:\Users\doga\Desktop\C#\PassCrypt\PassCrypt\obj\Debug\PassCrypt.Properties.Resources.resources
+C:\Users\doga\Desktop\C#\PassCrypt\PassCrypt\obj\Debug\PassCrypt.SifreOlustur.resources
+C:\Users\doga\Desktop\C#\PassCrypt\PassCrypt\obj\Debug\PassCrypt.csproj.GenerateResource.cache
+C:\Users\doga\Desktop\C#\PassCrypt\PassCrypt\obj\Debug\PassCrypt.csproj.CoreCompileInputs.cache
+C:\Users\doga\Desktop\C#\PassCrypt\PassCrypt\obj\Debug\PassCrypt.exe
+C:\Users\doga\Desktop\C#\PassCrypt\PassCrypt\obj\Debug\PassCrypt.pdb
