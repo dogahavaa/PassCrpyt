@@ -16,49 +16,48 @@ namespace PassCrypt
         {
             InitializeComponent();
         }
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            FormuAc<SifreKaydet>();
+        }
 
         private void TSMI_SifreOlustur_Click(object sender, EventArgs e)
         {
-            Form[] acikFormlar = this.MdiChildren;
-            bool acikMi = false;
-
-            foreach (Form form in acikFormlar)
-            {
-                if (form.GetType() == typeof(SifreOlustur))
-                {
-                    acikMi = true;
-                    form.Activate();
-                }
-            }
-            if (acikMi == false)
-            {
-                SifreOlustur SifreOlusturForm = new SifreOlustur();
-                SifreOlusturForm.MdiParent = this;
-                SifreOlusturForm.WindowState = FormWindowState.Maximized;
-                SifreOlusturForm.Show();
-            }
+            FormuAc<SifreOlustur>();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void TSMI_SifreKaydet_Click(object sender, EventArgs e)
+        {
+            FormuAc<SifreKaydet>();
+        }
+
+        private void TSMI_KayitliSifrelerim_Click(object sender, EventArgs e)
+        {
+            FormuAc<Sifrelerim>();
+        }
+
+        private void FormuAc<T>() where T : Form, new()
         {
             Form[] acikFormlar = this.MdiChildren;
             bool acikMi = false;
 
-            foreach (Form form in acikFormlar)
+            foreach (Form f in acikFormlar)
             {
-                if (form.GetType() == typeof(SifreOlustur))
+                if (f is T)
                 {
                     acikMi = true;
-                    form.Activate();
+                    f.Activate();
                 }
             }
-            if (acikMi == false)
+            if (!acikMi)
             {
-                SifreOlustur SifreOlusturForm = new SifreOlustur();
-                SifreOlusturForm.MdiParent = this;
-                SifreOlusturForm.WindowState = FormWindowState.Maximized;
-                SifreOlusturForm.Show();
+                T form = new T();
+                form.MdiParent = this;
+                form.WindowState = FormWindowState.Maximized;
+                form.Show();
             }
         }
+
+       
     }
 }

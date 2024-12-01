@@ -54,6 +54,18 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SifreKaydet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SifreKaydet.Designer.cs">
+      <DependentUpon>SifreKaydet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sifrelerim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sifrelerim.Designer.cs">
+      <DependentUpon>Sifrelerim.cs</DependentUpon>
+    </Compile>
     <Compile Include="SifreOlustur.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -72,6 +84,12 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="SifreKaydet.resx">
+      <DependentUpon>SifreKaydet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sifrelerim.resx">
+      <DependentUpon>Sifrelerim.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="SifreOlustur.resx">
       <DependentUpon>SifreOlustur.cs</DependentUpon>
     </EmbeddedResource>

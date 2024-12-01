@@ -59,12 +59,14 @@
             this.TSMI_SifreKaydet.Name = "TSMI_SifreKaydet";
             this.TSMI_SifreKaydet.Size = new System.Drawing.Size(81, 20);
             this.TSMI_SifreKaydet.Text = "Şifre Kaydet";
+            this.TSMI_SifreKaydet.Click += new System.EventHandler(this.TSMI_SifreKaydet_Click);
             // 
             // TSMI_KayitliSifrelerim
             // 
             this.TSMI_KayitliSifrelerim.Name = "TSMI_KayitliSifrelerim";
             this.TSMI_KayitliSifrelerim.Size = new System.Drawing.Size(104, 20);
             this.TSMI_KayitliSifrelerim.Text = "Kayıtlı Şifrelerim";
+            this.TSMI_KayitliSifrelerim.Click += new System.EventHandler(this.TSMI_KayitliSifrelerim_Click);
             // 
             // Form1
             // 

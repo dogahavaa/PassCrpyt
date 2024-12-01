@@ -10,3 +10,17 @@ C:\Users\doga\Desktop\C#\PassCrypt\PassCrypt\obj\Debug\PassCrypt.csproj.Generate
 C:\Users\doga\Desktop\C#\PassCrypt\PassCrypt\obj\Debug\PassCrypt.csproj.CoreCompileInputs.cache
 C:\Users\doga\Desktop\C#\PassCrypt\PassCrypt\obj\Debug\PassCrypt.exe
 C:\Users\doga\Desktop\C#\PassCrypt\PassCrypt\obj\Debug\PassCrypt.pdb
+C:\Users\doga\Documents\GitHub\PassCrpyt\PassCrypt\bin\Debug\PassCrypt.exe.config
+C:\Users\doga\Documents\GitHub\PassCrpyt\PassCrypt\bin\Debug\PassCrypt.exe
+C:\Users\doga\Documents\GitHub\PassCrpyt\PassCrypt\bin\Debug\PassCrypt.pdb
+C:\Users\doga\Documents\GitHub\PassCrpyt\PassCrypt\obj\Debug\PassCrypt.csproj.AssemblyReference.cache
+C:\Users\doga\Documents\GitHub\PassCrpyt\PassCrypt\obj\Debug\PassCrypt.csproj.SuggestedBindingRedirects.cache
+C:\Users\doga\Documents\GitHub\PassCrpyt\PassCrypt\obj\Debug\PassCrypt.Form1.resources
+C:\Users\doga\Documents\GitHub\PassCrpyt\PassCrypt\obj\Debug\PassCrypt.Properties.Resources.resources
+C:\Users\doga\Documents\GitHub\PassCrpyt\PassCrypt\obj\Debug\PassCrypt.SifreOlustur.resources
+C:\Users\doga\Documents\GitHub\PassCrpyt\PassCrypt\obj\Debug\PassCrypt.csproj.GenerateResource.cache
+C:\Users\doga\Documents\GitHub\PassCrpyt\PassCrypt\obj\Debug\PassCrypt.csproj.CoreCompileInputs.cache
+C:\Users\doga\Documents\GitHub\PassCrpyt\PassCrypt\obj\Debug\PassCrypt.exe
+C:\Users\doga\Documents\GitHub\PassCrpyt\PassCrypt\obj\Debug\PassCrypt.pdb
+C:\Users\doga\Documents\GitHub\PassCrpyt\PassCrypt\obj\Debug\PassCrypt.SifreKaydet.resources
+C:\Users\doga\Documents\GitHub\PassCrpyt\PassCrypt\obj\Debug\PassCrypt.Sifrelerim.resources
